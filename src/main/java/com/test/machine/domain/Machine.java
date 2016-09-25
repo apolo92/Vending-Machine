@@ -11,7 +11,7 @@ import com.test.machine.domain.model.MoneyEUR;
  * The first interface is for client of machine and the second is for supplier and add products in machine
  */
 public class Machine implements VendingMachine,SupplierMachine{
-
+ 
     private Money money;
     private Store store;
 
