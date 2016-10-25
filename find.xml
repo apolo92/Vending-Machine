@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[login-users] - ...\src\test\java\com\test\web'" />
-    <option name="defaultScopeName" value="Directory '[login-users] - ...\src\test\java\com\test\web'" />
-    <option name="SEARCH_SCOPE" value="Directory '[login-users] - ...\src\test\java\com\test\web'" />
+    <option name="customScope" value="File '[backend.lrs] - ...\src\test\javaIntegration\com\trantorsystem\circle\base\api\auth\AuthControllerTest.java'" />
+    <option name="defaultScopeName" value="File '[backend.lrs] - ...\src\test\javaIntegration\com\trantorsystem\circle\base\api\auth\AuthControllerTest.java'" />
+    <option name="SEARCH_SCOPE" value="File '[backend.lrs] - ...\src\test\javaIntegration\com\trantorsystem\circle\base\api\auth\AuthControllerTest.java'" />
   </component>
 </application>
