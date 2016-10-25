@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/43arroba/kanbanback.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://apolo92@bitbucket.org/theCircle/schneider.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\alejandro\IdeaProjects" />

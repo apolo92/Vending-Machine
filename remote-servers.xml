@@ -1,0 +1,9 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="DEV" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="C:\Users\alejandro\.docker\machine\machines\default" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
