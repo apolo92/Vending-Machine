@@ -26,6 +26,10 @@
           <option name="url" value="https://apolo92@bitbucket.org/theCircle/backend.core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/awslabs/dynamodb-transactions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\alejandro\IdeaProjects" />
